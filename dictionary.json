@@ -1,0 +1,98 @@
+{
+  "entries": [
+    {
+      "id": "8Zko3XiY6qoBNbjii9UU",
+      "word": "beredge",
+      "meaning": "bed",
+      "dialect": "Shughni",
+      "contributorId": "xS2qLmDYtWdm075dhQXXwa4Rfha2",
+      "search_tokens": [
+        "beredge",
+        "bed"
+      ],
+      "_normalized": "beredge",
+      "timestamp": {
+        "seconds": 1767954756,
+        "nanoseconds": 825000000
+      },
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2F8Zko3XiY6qoBNbjii9UU.m4a?alt=media&token=4c8a8f16-ec65-4e91-ac65-89b7882d95b8",
+      "status": "verified"
+    },
+    {
+      "id": "u2X6piJ1uVXMam37zqtr",
+      "word": "dzax",
+      "meaning": "fart",
+      "dialect": "Shughni",
+      "contributorId": "xS2qLmDYtWdm075dhQXXwa4Rfha2",
+      "search_tokens": [
+        "dzax",
+        "dzakh",
+        "fart"
+      ],
+      "_normalized": "dzax",
+      "timestamp": {
+        "seconds": 1767954780,
+        "nanoseconds": 983000000
+      },
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2Fu2X6piJ1uVXMam37zqtr.m4a?alt=media&token=157b00ae-cf30-43e8-8c2e-86ee6fe2018f",
+      "status": "verified"
+    },
+    {
+      "id": "hAsWKADvKTiccCiPzbs5",
+      "word": "ketob",
+      "meaning": "book",
+      "dialect": "Shughni",
+      "contributorId": "xS2qLmDYtWdm075dhQXXwa4Rfha2",
+      "search_tokens": [
+        "ketob",
+        "book"
+      ],
+      "_normalized": "ketob",
+      "timestamp": {
+        "seconds": 1767954734,
+        "nanoseconds": 52000000
+      },
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2FhAsWKADvKTiccCiPzbs5.m4a?alt=media&token=50e51f0a-16b0-450d-b022-c965b96b67aa",
+      "status": "verified"
+    },
+    {
+      "id": "wiz7mQAQdbOgQjNDsN6I",
+      "word": "shirchoy",
+      "meaning": "traditional tea",
+      "dialect": "Shughni",
+      "contributorId": "xS2qLmDYtWdm075dhQXXwa4Rfha2",
+      "search_tokens": [
+        "shirchoy",
+        "širčoy",
+        "traditional",
+        "tea"
+      ],
+      "_normalized": "širčoy",
+      "timestamp": {
+        "seconds": 1767954804,
+        "nanoseconds": 743000000
+      },
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2Fwiz7mQAQdbOgQjNDsN6I.m4a?alt=media&token=81eea8f9-ab54-4318-a621-bdfc79909219",
+      "status": "verified"
+    },
+    {
+      "id": "5FYkbX03WVht5RI6YskE",
+      "word": "xats",
+      "meaning": "water",
+      "dialect": "Shughni",
+      "contributorId": "xS2qLmDYtWdm075dhQXXwa4Rfha2",
+      "search_tokens": [
+        "xats",
+        "khats",
+        "water"
+      ],
+      "_normalized": "xats",
+      "timestamp": {
+        "seconds": 1767954605,
+        "nanoseconds": 182000000
+      },
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2F5FYkbX03WVht5RI6YskE.m4a?alt=media&token=62f49864-a656-47c8-a67a-7071d7beb5b1",
+      "status": "verified"
+    }
+  ]
+}

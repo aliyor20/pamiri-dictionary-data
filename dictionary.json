@@ -35,6 +35,25 @@
         "seconds": 1770447154,
         "nanoseconds": 619000000
       }
+    },
+    {
+      "id": "5zdQbD2sGiDUvlqxiI5V",
+      "word": "узум",
+      "meaning": "I",
+      "dialect": "Shughni",
+      "contributorId": "g49LpgIoRLPczXhguPaI7y5ADSA2",
+      "votes": [
+        "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1"
+      ],
+      "vote_count": 3,
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1770449686,
+        "nanoseconds": 441000000
+      }
     }
-  ]
+  ],
+  "version": 1770449692455,
+  "lastUpdated": 1770449686441,
+  "count": 3
 }

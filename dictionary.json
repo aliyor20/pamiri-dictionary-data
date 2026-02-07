@@ -1,3 +1,22 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "id": "dC5uj0JqMSEpP8O1XxxH",
+      "word": "pesh",
+      "meaning": "cat",
+      "dialect": "Shughni",
+      "contributorId": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2FdC5uj0JqMSEpP8O1XxxH.m4a?alt=media&token=e986ee5f-4923-46ca-b7f3-7f143558351b",
+      "votes": [
+        "qxOlWKnqRVMJYSAH7mgtiAmFDHa2",
+        "g49LpgIoRLPczXhguPaI7y5ADSA2"
+      ],
+      "vote_count": 3,
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1770447154,
+        "nanoseconds": 619000000
+      }
+    }
+  ]
 }

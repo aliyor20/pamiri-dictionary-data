@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "id": "wTrvV7Yo64y4239HjCAG",
+      "word": "jerib",
+      "meaning": "sock",
+      "dialect": "Shughni",
+      "contributorId": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2FwTrvV7Yo64y4239HjCAG.m4a?alt=media&token=3380043a-7fd4-483c-9a76-dda042b6cdfb",
+      "votes": [
+        "qxOlWKnqRVMJYSAH7mgtiAmFDHa2",
+        "g49LpgIoRLPczXhguPaI7y5ADSA2"
+      ],
+      "vote_count": 3,
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1770447426,
+        "nanoseconds": 65000000
+      }
+    },
+    {
       "id": "dC5uj0JqMSEpP8O1XxxH",
       "word": "pesh",
       "meaning": "cat",

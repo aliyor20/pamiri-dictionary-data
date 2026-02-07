@@ -16,7 +16,12 @@
       "timestamp": {
         "seconds": 1770447426,
         "nanoseconds": 65000000
-      }
+      },
+      "_normalized": "jerib",
+      "search_tokens": [
+        "jerib",
+        "sock"
+      ]
     },
     {
       "id": "dC5uj0JqMSEpP8O1XxxH",
@@ -34,7 +39,13 @@
       "timestamp": {
         "seconds": 1770447154,
         "nanoseconds": 619000000
-      }
+      },
+      "_normalized": "peš",
+      "search_tokens": [
+        "pesh",
+        "peš",
+        "cat"
+      ]
     },
     {
       "id": "5zdQbD2sGiDUvlqxiI5V",
@@ -50,10 +61,14 @@
       "timestamp": {
         "seconds": 1770449686,
         "nanoseconds": 441000000
-      }
+      },
+      "_normalized": "узум",
+      "search_tokens": [
+        "узум"
+      ]
     }
   ],
-  "version": 1770449692455,
+  "version": 1770451681391,
   "lastUpdated": 1770449686441,
   "count": 3
 }

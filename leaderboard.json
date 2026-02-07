@@ -1,24 +1,31 @@
 {
-  "version": 1770186782942,
+  "version": 1770445888111,
   "users": [
     {
-      "id": "EJ5lWn0jUpa637crhiw14C6KwNt1",
+      "id": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
       "displayName": "aliyorchik",
-      "points": 24,
+      "points": 6,
       "dialect": "General",
       "badges": []
     },
     {
-      "id": "R5gc7W8mSGTS2HlB2fy1eJ2e8tq2",
-      "displayName": "Contributor",
-      "points": 0,
+      "id": "qxOlWKnqRVMJYSAH7mgtiAmFDHa2",
+      "displayName": "pomere",
+      "points": 1,
       "dialect": "General",
       "badges": []
     },
     {
-      "id": "DGFDHSXGpQaiHIveeRFPC8EBlWz1",
-      "displayName": "Contributor",
-      "points": 0,
+      "id": "g49LpgIoRLPczXhguPaI7y5ADSA2",
+      "displayName": "Ansori",
+      "points": 1,
+      "dialect": "General",
+      "badges": []
+    },
+    {
+      "id": "dmxACxtT65TdFiZdGglWHKMxHOo1",
+      "displayName": "Brogan",
+      "points": 1,
       "dialect": "General",
       "badges": []
     }

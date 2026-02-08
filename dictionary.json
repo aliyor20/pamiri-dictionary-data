@@ -24,6 +24,26 @@
       ]
     },
     {
+      "id": "5zdQbD2sGiDUvlqxiI5V",
+      "word": "узум",
+      "meaning": "I",
+      "dialect": "Shughni",
+      "contributorId": "g49LpgIoRLPczXhguPaI7y5ADSA2",
+      "votes": [
+        "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1"
+      ],
+      "vote_count": 3,
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1770449686,
+        "nanoseconds": 441000000
+      },
+      "_normalized": "узум",
+      "search_tokens": [
+        "узум"
+      ]
+    },
+    {
       "id": "dC5uj0JqMSEpP8O1XxxH",
       "word": "pesh",
       "meaning": "cat",
@@ -48,27 +68,32 @@
       ]
     },
     {
-      "id": "5zdQbD2sGiDUvlqxiI5V",
-      "word": "узум",
-      "meaning": "I",
+      "id": "SnUP9pMG1G0R2GvWCi20",
       "dialect": "Shughni",
-      "contributorId": "g49LpgIoRLPczXhguPaI7y5ADSA2",
-      "votes": [
-        "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1"
-      ],
-      "vote_count": 3,
+      "meaning": "lets go",
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2FSnUP9pMG1G0R2GvWCi20.m4a?alt=media&token=aa9e581e-5bfb-46e1-95df-ca1787ced09f",
       "status": "verified",
+      "votes": [
+        "qxOlWKnqRVMJYSAH7mgtiAmFDHa2",
+        "g49LpgIoRLPczXhguPaI7y5ADSA2",
+        "dmxACxtT65TdFiZdGglWHKMxHOo1"
+      ],
+      "contributorId": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
       "timestamp": {
-        "seconds": 1770449686,
-        "nanoseconds": 441000000
+        "seconds": 1770534881,
+        "nanoseconds": 991000000
       },
-      "_normalized": "узум",
+      "vote_count": 3,
+      "word": "toydam",
+      "_normalized": "toydam",
       "search_tokens": [
-        "узум"
+        "toydam",
+        "lets",
+        "go"
       ]
     }
   ],
-  "version": 1770451681391,
-  "lastUpdated": 1770449686441,
-  "count": 3
+  "version": 1770536226098,
+  "lastUpdated": 1770534881991,
+  "count": 4
 }

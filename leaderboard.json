@@ -1,10 +1,17 @@
 {
-  "version": 1770451677662,
+  "version": 1770536224792,
   "users": [
     {
       "id": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
       "displayName": "aliyorchik",
-      "points": 10,
+      "points": 18,
+      "dialect": "General",
+      "badges": []
+    },
+    {
+      "id": "dmxACxtT65TdFiZdGglWHKMxHOo1",
+      "displayName": "Brogan",
+      "points": 15,
       "dialect": "General",
       "badges": []
     },
@@ -18,13 +25,6 @@
     {
       "id": "g49LpgIoRLPczXhguPaI7y5ADSA2",
       "displayName": "Ansori",
-      "points": 1,
-      "dialect": "General",
-      "badges": []
-    },
-    {
-      "id": "dmxACxtT65TdFiZdGglWHKMxHOo1",
-      "displayName": "Brogan",
       "points": 1,
       "dialect": "General",
       "badges": []

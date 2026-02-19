@@ -24,23 +24,27 @@
       ]
     },
     {
-      "id": "5zdQbD2sGiDUvlqxiI5V",
-      "word": "узум",
-      "meaning": "I",
+      "id": "bcXdV0TyxcLmLKo7lnrj",
+      "word": "mahdzondj",
+      "meaning": "Hungry",
       "dialect": "Shughni",
-      "contributorId": "g49LpgIoRLPczXhguPaI7y5ADSA2",
+      "contributorId": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2FbcXdV0TyxcLmLKo7lnrj.m4a?alt=media&token=1333786f-b4dd-484b-b716-e61622e0689c",
       "votes": [
-        "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1"
+        "qxOlWKnqRVMJYSAH7mgtiAmFDHa2",
+        "g49LpgIoRLPczXhguPaI7y5ADSA2",
+        "EJis2vEAeOSUGOB5bxbO8mHn1gp2"
       ],
       "vote_count": 3,
       "status": "verified",
       "timestamp": {
-        "seconds": 1770449686,
-        "nanoseconds": 441000000
+        "seconds": 1771481819,
+        "nanoseconds": 227000000
       },
-      "_normalized": "узум",
+      "_normalized": "mahdzondj",
       "search_tokens": [
-        "узум"
+        "mahdzondj",
+        "hungry"
       ]
     },
     {
@@ -91,9 +95,53 @@
         "lets",
         "go"
       ]
+    },
+    {
+      "id": "Y4kiATVtlNOSBa32P1SF",
+      "word": "wevedge",
+      "meaning": "Bird",
+      "dialect": "Shughni",
+      "contributorId": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2FY4kiATVtlNOSBa32P1SF.m4a?alt=media&token=62746ef5-d689-486f-bff5-215b3f60dced",
+      "votes": [
+        "qxOlWKnqRVMJYSAH7mgtiAmFDHa2",
+        "g49LpgIoRLPczXhguPaI7y5ADSA2",
+        "EJis2vEAeOSUGOB5bxbO8mHn1gp2"
+      ],
+      "vote_count": 3,
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1771481810,
+        "nanoseconds": 168000000
+      },
+      "_normalized": "wevedge",
+      "search_tokens": [
+        "wevedge",
+        "bird"
+      ]
+    },
+    {
+      "id": "5zdQbD2sGiDUvlqxiI5V",
+      "word": "узум",
+      "meaning": "I",
+      "dialect": "Shughni",
+      "contributorId": "g49LpgIoRLPczXhguPaI7y5ADSA2",
+      "votes": [
+        "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1"
+      ],
+      "vote_count": 3,
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1770449686,
+        "nanoseconds": 441000000
+      },
+      "_normalized": "узум",
+      "search_tokens": [
+        "узум"
+      ]
     }
   ],
-  "version": 1770536226098,
-  "lastUpdated": 1770534881991,
-  "count": 4
+  "version": 1771482233393,
+  "lastUpdated": 1771481819227,
+  "count": 6
 }

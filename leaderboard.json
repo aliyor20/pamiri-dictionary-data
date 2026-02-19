@@ -1,5 +1,5 @@
 {
-  "version": 1770536940196,
+  "version": 1771482226829,
   "users": [
     {
       "id": "Qaf3ZQrkpYTFlg6m6uBwLmVxubj1",
@@ -26,6 +26,34 @@
       "id": "g49LpgIoRLPczXhguPaI7y5ADSA2",
       "displayName": "Ansori",
       "points": 1,
+      "dialect": "General",
+      "badges": []
+    },
+    {
+      "id": "fw1lnNlRs0hBnO9dNZS2KyRYCE42",
+      "displayName": "Contributor",
+      "points": 0,
+      "dialect": "General",
+      "badges": []
+    },
+    {
+      "id": "fKuKseRQbGTSykszMUttv5MTR8k2",
+      "displayName": "Contributor",
+      "points": 0,
+      "dialect": "General",
+      "badges": []
+    },
+    {
+      "id": "EJis2vEAeOSUGOB5bxbO8mHn1gp2",
+      "displayName": "MountainVoice",
+      "points": 0,
+      "dialect": "General",
+      "badges": []
+    },
+    {
+      "id": "BccsSkpiGXXbqNO8IBAwd5Fzpqi1",
+      "displayName": "Mansurchik",
+      "points": 0,
       "dialect": "General",
       "badges": []
     }

@@ -1,7 +1,7 @@
 {
-  "version": 1772962334513,
-  "lastUpdated": 1772957934014,
-  "count": 1631,
+  "version": 1773716317120,
+  "lastUpdated": 1773706987629,
+  "count": 1636,
   "entries": [
     {
       "id": "-гāлак_Shughni_EPIe5hJ0LM",
@@ -270,6 +270,43 @@
       "audioURL": ""
     },
     {
+      "id": "empty_word_019_1709867000000",
+      "unit_id": 90019,
+      "meaning": "сапоги; boots",
+      "definitions": {
+        "en": "boots",
+        "ru": "сапоги"
+      },
+      "part_of_speech": "noun",
+      "source": "manual_batch_1",
+      "translation_method": "manual",
+      "dialect": "Shughni",
+      "contributorId": "TD8wX61OS0XyApUGzPavcLYCdDw1",
+      "downvotes": 0,
+      "word": "booten",
+      "upvotes": 3,
+      "voters": [
+        "TD8wX61OS0XyApUGzPavcLYCdDw1",
+        "N6ko1HldsaYJBipT5APxZ7VwZ2R2",
+        "atNN29MplLZCOGJnMtFyZqZn9fn1"
+      ],
+      "verifiedAt": {
+        "_seconds": 1773201476,
+        "_nanoseconds": 204000000
+      },
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1773201476,
+        "nanoseconds": 204000000
+      },
+      "_normalized": "booten",
+      "search_tokens": [
+        "booten",
+        "сапоги",
+        "boots"
+      ]
+    },
+    {
       "id": "empty_word_007_1709867000000",
       "unit_id": 90007,
       "meaning": "штаны; pants",
@@ -307,6 +344,44 @@
       ]
     },
     {
+      "id": "empty_word_024_1709867000000",
+      "unit_id": 90024,
+      "meaning": "шорты; shorts",
+      "definitions": {
+        "en": "shorts",
+        "ru": "шорты"
+      },
+      "part_of_speech": "noun",
+      "source": "manual_batch_1",
+      "translation_method": "manual",
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2Fempty_word_024_1709867000000.m4a?alt=media&token=dc4ed7a5-ef59-4b02-8b2f-868ffca95d66",
+      "dialect": "Shughni",
+      "contributorId": "TD8wX61OS0XyApUGzPavcLYCdDw1",
+      "downvotes": 0,
+      "word": "bridjen",
+      "upvotes": 3,
+      "voters": [
+        "TD8wX61OS0XyApUGzPavcLYCdDw1",
+        "N6ko1HldsaYJBipT5APxZ7VwZ2R2",
+        "atNN29MplLZCOGJnMtFyZqZn9fn1"
+      ],
+      "verifiedAt": {
+        "_seconds": 1773201480,
+        "_nanoseconds": 486000000
+      },
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1773201480,
+        "nanoseconds": 486000000
+      },
+      "_normalized": "bridjen",
+      "search_tokens": [
+        "bridjen",
+        "шорты",
+        "shorts"
+      ]
+    },
+    {
       "id": "NcyKyaRZJUkpkPCtC9cM",
       "word": "chid",
       "definitions": {
@@ -341,6 +416,43 @@
         "čid",
         "house",
         "дом"
+      ]
+    },
+    {
+      "id": "EGHrbgsNyCaAzgplkeq0",
+      "word": "deraxt",
+      "definitions": {
+        "en": "Tree",
+        "ru": "Дерево"
+      },
+      "alphabet": "Latin",
+      "dialect": "Shughni",
+      "example": null,
+      "contributorId": "r0Eq9vXumIMiANjU33iQHL1Yvc92",
+      "downvotes": 0,
+      "audioURL": null,
+      "upvotes": 3,
+      "voters": [
+        "qwMXxOgfUncBVDPB9KfFxZtz9S23",
+        "UmiTH0tjwNWLYOkKuHYnOFYiQj83",
+        "2ZZxdwsVfabsgh3Qj2PZhTAIbLZ2"
+      ],
+      "verifiedAt": {
+        "_seconds": 1773364429,
+        "_nanoseconds": 69000000
+      },
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1773364429,
+        "nanoseconds": 69000000
+      },
+      "meaning": "Дерево",
+      "_normalized": "deraxt",
+      "search_tokens": [
+        "deraxt",
+        "derakht",
+        "tree",
+        "дерево"
       ]
     },
     {
@@ -498,6 +610,42 @@
       "audioURL": ""
     },
     {
+      "id": "JlVswraIePcVxOkNMCbK",
+      "word": "jirib",
+      "definitions": {
+        "en": "Socs",
+        "ru": "Носки"
+      },
+      "alphabet": "Latin",
+      "dialect": "Shughni",
+      "example": "Ev jiribaken pinidz",
+      "contributorId": "2ZZxdwsVfabsgh3Qj2PZhTAIbLZ2",
+      "downvotes": 0,
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2FJlVswraIePcVxOkNMCbK.m4a?alt=media&token=0cef6666-a734-4e0c-b72c-936c3d3cc6c0",
+      "upvotes": 3,
+      "voters": [
+        "r0Eq9vXumIMiANjU33iQHL1Yvc92",
+        "qwMXxOgfUncBVDPB9KfFxZtz9S23",
+        "OcFPHg4sDTY4VJS0ZFszkXAOef93"
+      ],
+      "verifiedAt": {
+        "_seconds": 1773706987,
+        "_nanoseconds": 629000000
+      },
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1773706987,
+        "nanoseconds": 629000000
+      },
+      "meaning": "Носки",
+      "_normalized": "jirib",
+      "search_tokens": [
+        "jirib",
+        "socs",
+        "носки"
+      ]
+    },
+    {
       "id": "empty_word_004_1709867000000",
       "unit_id": 90004,
       "meaning": "работа; work",
@@ -568,6 +716,45 @@
         "shirchoy",
         "širčoy",
         "ширчой"
+      ]
+    },
+    {
+      "id": "empty_word_023_1709867000000",
+      "unit_id": 90023,
+      "meaning": "тапочки; slippers",
+      "definitions": {
+        "en": "slippers",
+        "ru": "тапочки"
+      },
+      "part_of_speech": "noun",
+      "source": "manual_batch_1",
+      "translation_method": "manual",
+      "audioURL": "https://firebasestorage.googleapis.com/v0/b/pamirilexicon.firebasestorage.app/o/audio%2Fempty_word_023_1709867000000.m4a?alt=media&token=84e07ad8-e105-4b61-b0ea-2469397a7bf4",
+      "dialect": "Shughni",
+      "contributorId": "TD8wX61OS0XyApUGzPavcLYCdDw1",
+      "downvotes": 0,
+      "word": "shlopki",
+      "upvotes": 3,
+      "voters": [
+        "TD8wX61OS0XyApUGzPavcLYCdDw1",
+        "qwMXxOgfUncBVDPB9KfFxZtz9S23",
+        "N6ko1HldsaYJBipT5APxZ7VwZ2R2"
+      ],
+      "verifiedAt": {
+        "_seconds": 1772983500,
+        "_nanoseconds": 877000000
+      },
+      "status": "verified",
+      "timestamp": {
+        "seconds": 1772983500,
+        "nanoseconds": 877000000
+      },
+      "_normalized": "šlopki",
+      "search_tokens": [
+        "shlopki",
+        "šlopki",
+        "тапочки",
+        "slippers"
       ]
     },
     {
